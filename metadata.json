@@ -1,0 +1,6 @@
+{
+  "name": "Sabor da Roça",
+  "description": "Um site celebrando a autêntica comida rústica brasileira com foco em acessibilidade e design acolhedor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
